@@ -1,0 +1,14 @@
+C:\dev\CodewarsCsharp\KataSolutions\bin\Debug\net7.0\KataSolutions.exe
+C:\dev\CodewarsCsharp\KataSolutions\bin\Debug\net7.0\KataSolutions.deps.json
+C:\dev\CodewarsCsharp\KataSolutions\bin\Debug\net7.0\KataSolutions.runtimeconfig.json
+C:\dev\CodewarsCsharp\KataSolutions\bin\Debug\net7.0\KataSolutions.dll
+C:\dev\CodewarsCsharp\KataSolutions\bin\Debug\net7.0\KataSolutions.pdb
+C:\dev\CodewarsCsharp\KataSolutions\obj\Debug\net7.0\KataSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CodewarsCsharp\KataSolutions\obj\Debug\net7.0\KataSolutions.AssemblyInfoInputs.cache
+C:\dev\CodewarsCsharp\KataSolutions\obj\Debug\net7.0\KataSolutions.AssemblyInfo.cs
+C:\dev\CodewarsCsharp\KataSolutions\obj\Debug\net7.0\KataSolutions.csproj.CoreCompileInputs.cache
+C:\dev\CodewarsCsharp\KataSolutions\obj\Debug\net7.0\KataSolutions.dll
+C:\dev\CodewarsCsharp\KataSolutions\obj\Debug\net7.0\refint\KataSolutions.dll
+C:\dev\CodewarsCsharp\KataSolutions\obj\Debug\net7.0\KataSolutions.pdb
+C:\dev\CodewarsCsharp\KataSolutions\obj\Debug\net7.0\KataSolutions.genruntimeconfig.cache
+C:\dev\CodewarsCsharp\KataSolutions\obj\Debug\net7.0\ref\KataSolutions.dll
