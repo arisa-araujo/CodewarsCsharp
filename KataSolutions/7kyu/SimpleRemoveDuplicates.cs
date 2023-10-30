@@ -1,11 +1,8 @@
 using System.Collections.Generic;
-namespace Kata7kyu
+namespace Codewars
 {
-    public class Solutions
+    public class RemoveDuplicates
     {
-        public static int[] Solve(int[] arr)
-        {
-            return arr.Reverse().Distinct().Reverse().ToArray();
-        }
+        public static int[] Solve(int[] arr) => arr.Reverse().Distinct().Reverse().ToArray();
     }
 }

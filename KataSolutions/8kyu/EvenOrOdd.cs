@@ -1,6 +1,6 @@
-namespace Kata8kyu
+namespace Codewars
 {
-  public class Solutions
+  public class EvenOdd
   {
     public string EvenOrOdd(int number)
     {
